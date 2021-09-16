@@ -36,6 +36,7 @@ public class CovidAnalyzerTool implements Runnable {
         amountOfFilesProcessed = new AtomicInteger();
         threads = new ConcurrentLinkedDeque<>();
         pause = false;
+        amountOfFilesTotal = -1;
 
     }
 
