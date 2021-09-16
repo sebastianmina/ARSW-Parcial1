@@ -1,4 +1,4 @@
-# Escuela Colombiana de Ingeniería Julio Garavito - Examen Final de Primer Tercio
+# Escuela Colombiana de Ingeniería Julio Garavito - Examen Final de Primer Tercio (Mina Echavarría Juan Sebastián)
 
 ## Sistema de Registros de casos COVID
 
